@@ -65,7 +65,7 @@
            <tr>
                <td>&nbsp;</td>
                <td><input type="submit" value="Submit" />
-                  <a href="${pageContext.request.contextPath}/applicantList">Cancel</a>
+                  <a href="${pageContext.request.contextPath}">Cancel</a>
                </td>
                <td>&nbsp;</td>
            </tr>
