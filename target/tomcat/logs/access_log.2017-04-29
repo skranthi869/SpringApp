@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [29/Apr/2017:15:54:32 -0500] "GET /SpringApp/ HTTP/1.1" 200 1514 http-bio-8080-exec-1 586
+0:0:0:0:0:0:0:1 - - [29/Apr/2017:15:54:33 -0500] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-5 0
+0:0:0:0:0:0:0:1 - - [29/Apr/2017:15:54:39 -0500] "GET /SpringApp/createApplicant HTTP/1.1" 200 2472 http-bio-8080-exec-7 1247
+0:0:0:0:0:0:0:1 - - [29/Apr/2017:15:54:46 -0500] "GET /SpringApp/applicantList HTTP/1.1" 200 1680 http-bio-8080-exec-8 3457
+0:0:0:0:0:0:0:1 - - [29/Apr/2017:15:55:10 -0500] "GET /SpringApp/applicantList HTTP/1.1" 200 1680 http-bio-8080-exec-2 69
+0:0:0:0:0:0:0:1 - - [29/Apr/2017:15:55:15 -0500] "GET /SpringApp/editApplicant?id=6a1c8c98-11cb-4650-9ec3-a5b4369422e9 HTTP/1.1" 200 2590 http-bio-8080-exec-8 297
+0:0:0:0:0:0:0:1 - - [29/Apr/2017:15:55:17 -0500] "GET /SpringApp/applicantList HTTP/1.1" 200 1680 http-bio-8080-exec-8 43
+0:0:0:0:0:0:0:1 - - [29/Apr/2017:15:55:25 -0500] "GET /SpringApp/applicantList HTTP/1.1" 200 1680 http-bio-8080-exec-4 34
+0:0:0:0:0:0:0:1 - - [29/Apr/2017:15:56:23 -0500] "GET /SpringApp/ HTTP/1.1" 200 1514 http-bio-8080-exec-2 6
+0:0:0:0:0:0:0:1 - - [29/Apr/2017:15:56:27 -0500] "GET /SpringApp/ HTTP/1.1" 200 1514 http-bio-8080-exec-2 3
+0:0:0:0:0:0:0:1 - - [29/Apr/2017:15:56:30 -0500] "GET /SpringApp/applicantList HTTP/1.1" 200 1680 http-bio-8080-exec-10 43
+0:0:0:0:0:0:0:1 - - [29/Apr/2017:15:56:37 -0500] "GET /SpringApp/createApplicant HTTP/1.1" 200 2458 http-bio-8080-exec-1 672
+0:0:0:0:0:0:0:1 - - [29/Apr/2017:15:56:39 -0500] "GET /SpringApp HTTP/1.1" 302 - http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [29/Apr/2017:15:56:39 -0500] "GET /SpringApp/ HTTP/1.1" 200 1514 http-bio-8080-exec-6 6
+0:0:0:0:0:0:0:1 - - [29/Apr/2017:15:56:47 -0500] "GET /SpringApp/applicantList HTTP/1.1" 200 1680 http-bio-8080-exec-7 37

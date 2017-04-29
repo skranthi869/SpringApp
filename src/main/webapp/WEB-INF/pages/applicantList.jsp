@@ -45,13 +45,12 @@
  </tr>    
  </c:forEach>
 </table>
-<a href="${pageContext.request.contextPath}">Back</a>
 <c:if test="${not empty message}">
   
    <div class="message">${message}</div>
 </c:if>
- 
- 
+
+<a href="${pageContext.request.contextPath}">Back</a> 
  
 </body>
 </html>
