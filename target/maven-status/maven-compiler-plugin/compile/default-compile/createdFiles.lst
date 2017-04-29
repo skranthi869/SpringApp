@@ -1,0 +1,9 @@
+com\forms\config\SpringWebAppInitializer.class
+com\forms\controller\MyController.class
+com\forms\model\ApplicantInfo.class
+com\forms\config\ApplicationContextConfig.class
+com\forms\validator\ApplicantValidator.class
+com\forms\entity\Applicant.class
+com\forms\dao\ApplicantDAO.class
+com\forms\dao\impl\ApplicantDAOImpl.class
+com\forms\config\WebMvcConfig.class
