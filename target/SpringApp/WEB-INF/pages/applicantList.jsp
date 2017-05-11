@@ -49,8 +49,8 @@
   
    <div class="message">${message}</div>
 </c:if>
- 
- 
+
+<a href="${pageContext.request.contextPath}">Back</a> 
  
 </body>
 </html>
